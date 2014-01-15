@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+if (${1:statement}) {${2:/* true stuff... */}}
+${0:}]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.js</scope>
+    <description>jss: If Statement, single or multi line</description>
+</snippet>

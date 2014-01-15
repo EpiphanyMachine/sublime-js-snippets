@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+_.each(${1:collection}, function (${2:value}, ${3:key}) {
+	${4:// stuff...}
+});
+${0:}]]></content>
+    <tabTrigger>each</tabTrigger>
+    <scope>source.js</scope>
+    <description>jss: Underscore _.each</description>
+</snippet>

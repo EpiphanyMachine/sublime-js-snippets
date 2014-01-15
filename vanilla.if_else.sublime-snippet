@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+if (${1:statement}) {
+	${2:// true stuff...}
+} else {
+	${3:// false stuff...}
+}
+${0:}]]></content>
+    <tabTrigger>ife</tabTrigger>
+    <scope>source.js</scope>
+    <description>jss: If ... Else</description>
+</snippet>
